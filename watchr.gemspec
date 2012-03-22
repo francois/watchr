@@ -17,4 +17,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'minitest'
   s.add_development_dependency 'mocha'
   s.add_development_dependency 'every'
+  s.add_development_dependency 'rake'
 end
