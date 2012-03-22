@@ -4,3 +4,4 @@ bk/
 .wiki
 .yardoc
 *.gem
+Gemfile.lock
